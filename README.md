@@ -1,6 +1,6 @@
 # duke.C3PO project template
 
-This is a project template for a greenfield Java project. It's named after the Java mascot _Duke_. Given below are instructions on how to use it.
+This is my individual project for the module CS2113T Software Engineering & Object-Oriented Programming in which we are required to create a task-tracking CLI application. Being a huge Star Wars nerd, I decided to use an ASCII art version of C3PO, infusing his character and demeanor into the project. C3PO can help you track a todo list, deadlines, and events. This project was loads of fun.  
 
 ## Setting up in Intellij
 
@@ -14,11 +14,5 @@ Prerequisites: JDK 11, update Intellij to the most recent version.
 1. Configure the project to use **JDK 11** (not other versions) as explained in [here](https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk).<br>
    In the same dialog, set the **Project language level** field to the `SDK default` option.
 3. After that, locate the `src/main/java/duke.C3PO.java` file, right-click it, and choose `Run duke.C3PO.main()` (if the code editor is showing compile errors, try restarting the IDE). If the setup is correct, you should see something like the below as the output:
-   ```
-   Hello from
-    ____        _        
-   |  _ \ _   _| | _____ 
-   | | | | | | | |/ / _ \
-   | |_| | |_| |   <  __/
-   |____/ \__,_|_|\_\___|
-   ```
+![image](https://github.com/user-attachments/assets/ea49b9e4-d901-44db-b6b4-b10de4d1121b)
+
