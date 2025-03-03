@@ -14,5 +14,6 @@ Prerequisites: JDK 11, update Intellij to the most recent version.
 1. Configure the project to use **JDK 11** (not other versions) as explained in [here](https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk).<br>
    In the same dialog, set the **Project language level** field to the `SDK default` option.
 3. After that, locate the `src/main/java/duke.C3PO.java` file, right-click it, and choose `Run duke.C3PO.main()` (if the code editor is showing compile errors, try restarting the IDE). If the setup is correct, you should see something like the below as the output:
+
 ![image](https://github.com/user-attachments/assets/ea49b9e4-d901-44db-b6b4-b10de4d1121b)
 
