@@ -1,4 +1,4 @@
-# CS2113T Individual Project, Academic Year 2021-2022, Semester 1, National University of Singapore 
+# CS2113T Individual Project, Year 2 Academic Year 2021-2022, Semester 1, National University of Singapore 
 
 This is my individual project for the module CS2113T Software Engineering & Object-Oriented Programming in which we are required to create a task-tracking CLI application. Being a huge Star Wars nerd, I decided to use an ASCII art version of C3PO, infusing his character and demeanor into the project. C3PO can help you track a todo list, deadlines, and events. This project was loads of fun.  
 
